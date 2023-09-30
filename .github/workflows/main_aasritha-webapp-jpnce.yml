@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'aasritha-webapp-jpnce'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E4D96DEC110F4658B6B505FB5A5F7B6E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_64CFF5BEA1C34765BF5165C60FA9AAEB }}
